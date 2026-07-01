@@ -2,8 +2,12 @@
 - New thing 1
 - New thing 2
 - md2html.py
+- gen_random_block.py
 ---
 ## Changelog
+### v0.3.0 - [07/01/2026] Add gen_random_block
+- Add gen_random_block.py
+- Generate block1.bin
 ### v0.2.0 - [07/01/2026] Add md2html
 - Add md2html.py
 ### v0.1.0 - [06/30/2026] Add New Things
